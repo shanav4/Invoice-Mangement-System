@@ -1,5 +1,4 @@
 # Invoice-Mangement-System
-================================================
 Codeignitor project for invoice management
 
 Kindly extract the zip file and run it.
